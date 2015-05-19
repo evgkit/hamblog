@@ -1,0 +1,2 @@
+# hamblog
+blog on rails
